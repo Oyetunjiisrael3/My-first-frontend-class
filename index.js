@@ -1,0 +1,3 @@
+crossOriginIsolated
+HTMLFormControlsCollection '{console}'
+CSSConditionRule
